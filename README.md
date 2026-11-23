@@ -1,29 +1,42 @@
-## 👋 Hello, Jimmy here! Welcome to my GitHub profile!
+<h1 align="center">Hi, I'm Jimmy 👋</h1>
 
-## 🌟 About Me:
-I'm passionate about coding and technology, constantly seeking new challenges and opportunities to learn and grow. My journey in the world of software development has been an exciting one, filled with countless lines of code, innovative projects, and collaborative endeavors.
+<p align="center">
+  <b>Backend developer working with .NET and Angular.</b><br/>
+  I build APIs and web apps, and I like small tools that do one job well.
+</p>
 
-## 🚀 What I Do:
-- **Programming Languages**: I'm proficient in .NET, Angular, Backend Web Development.
-- **Technologies**: I have experience with .NET Framework, .NET Core, Angular.
-- **Projects**: I love working on projects that span a wide range of domains, from web development to machine learning and everything in between.
-- **Contributions**: I actively contribute to open-source projects, believing in the power of collaboration and the sharing of knowledge.
+<p align="center">
+  <a href="https://www.linkedin.com/in/jimit-vaghela/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
 
-## 📚 My Contributions:
-- **Open Source**: Yet to add.
-- **Community**: Yet to add.
-- **Quality**: Yet to add.
+---
 
-## 🌐 Let's Connect:
-- **GitHub**: Feel free to explore my repositories and projects here on GitHub.
-- **LinkedIn**: Let's connect professionally on LinkedIn to stay updated on each other's endeavors.
-- **X**: Follow me on Twitter for insights, updates, and occasional tech humor.
+### 🔭 Right now
 
-## 🎯 What's Next:
-I'm always looking for exciting opportunities to collaborate on interesting projects, contribute to meaningful initiatives, and connect with like-minded individuals. If you have a project or idea you'd like to discuss, feel free to reach out!
+- Upgrading **[LinkComet](https://github.com/jimxxmy/LinkComet)** to **.NET 10**
+- Getting back into open source after a break
 
-## 📫 Contact
+### 🛠️ Tech I use
 
- For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/jimit-vaghela/). 
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,html,css,git,github,vscode,visualstudio&perline=10" alt="Tech stack"/>
+</p>
 
-🚧 Keep Building, Keep Innovating, and Keep Coding! 🛠️
+### 📌 Featured work
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**LinkComet**](https://github.com/jimxxmy/LinkComet) | URL shortening API. Create, look up, update and delete short links. | ASP.NET Core |
+| [**FlexiCart**](https://github.com/KaushikMakholiya/FlexiCart) | Team project, where I'm a collaborator. | |
+
+<details>
+<summary>Earlier projects (archived)</summary>
+
+- [Hack-Together-Email-New-User](https://github.com/jimxxmy/Hack-Together-Email-New-User)
+- [object-dimension-measurement](https://github.com/jimxxmy/object-dimension-measurement)
+
+</details>
+
+### 📫 Get in touch
+
+The fastest way to reach me is a DM on [LinkedIn](https://www.linkedin.com/in/jimit-vaghela/). I'm open to collaborating on .NET or Angular projects.
